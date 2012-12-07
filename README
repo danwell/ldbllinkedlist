@@ -4,7 +4,7 @@ By David Newell
 
 Released under the FreeBSD licence.
 
-This is a demonstration of a simple double libked list implementation in C++,
+This is a demonstration of a simple double linked list implementation in C++,
 used in another project. This library provides all the functions required to
 recurse through a list and add/remove nodes at any point in the list.
 
